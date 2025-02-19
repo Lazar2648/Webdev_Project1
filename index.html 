@@ -7,7 +7,33 @@
   <body>
     <ul>
       <li><a href="index.html">index.html</a></li>
-      <li><a href="resume.html">resume.html</a></li>
       <li><a href="soccer.html">soccer.html</a></li>
+      <li><a href="resume.html">resume.html</a></li>
     </ul>
+
+    <h1>About Me</h1> 
+    <p>I am a 3rd year student majoring in Business and ITM. I am originally from Poland. I have lived in 5 different countries.</p>
+    <h2>countries I have lived in:</h2>
+    <ul>
+      <li>Germany</li>
+      <li>Russia</li>
+      <li>Poland</li>
+      <li>Switzerland</li>
+      <li><img src="images/image1.jpeg" alt="Picture of Swiss Mountains" width="100"><br>
+      <li>USA (current)</li>
+      <li>img src="images/image2.jpeg" alt="Picture taken in Chicago" width="100"><br>
+    </ul>
+    <h2>hobbies</h2>
+    <ul>
+      <li>Soccer</li>
+      <li>Skiing</li>
+      <li>Fitness</li>
+      <li>Video Games</li>
+      <li>travelling</li>
+      <li><img src="images/image3.jpeg" alt="picture of me and friends on a trip" width="100"><br>
+      <li><img src="images/image4.jpeg" alt="Picture taken in Portofino" width="100"><br>
+  </body>
+  </html>
   
+
+
