@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en"
+<html lang="en">
   <head>
-    <meta charset="UTF-8"
-    <Title>Home Page </title>
+    <meta charset="UTF-8">
+    <title>Home Page </title>
   </head>
   <body>
     <ul>
@@ -19,9 +19,9 @@
       <li>Russia</li>
       <li>Poland</li>
       <li>Switzerland</li>
-      <li><img src="images/image1.jpeg" alt="Picture of Swiss Mountains" width="100"><br>
+      <li><img src="images/image1.jpeg" alt="Picture of Swiss Mountains" width="100"></li>
       <li>USA (current)</li>
-      <li>img src="images/image2.jpeg" alt="Picture taken in Chicago" width="100"><br>
+      <li>img src="images/image2.jpeg" alt="Picture taken in Chicago" width="100"></li>
     </ul>
     <h2>hobbies</h2>
     <ul>
@@ -30,10 +30,10 @@
       <li>Fitness</li>
       <li>Video Games</li>
       <li>travelling</li>
-      <li><img src="images/image3.jpeg" alt="picture of me and friends on a trip" width="100"><br>
-      <li><img src="images/image4.jpeg" alt="Picture taken in Portofino" width="100"><br>
+      <li><img src="images/image3.jpeg" alt="picture of me and friends on a trip" width="100"></li>
+      <li><img src="images/image4.jpeg" alt="Picture taken in Portofino" width="100"></li>
   </body>
   </html>
-  
+
 
 
