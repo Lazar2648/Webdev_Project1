@@ -5,7 +5,7 @@
     <title>Home Page </title>
   </head>
   <body>
-    <ul>
+    <ul> 
       <li><a href="index.html">index.html</a></li>
       <li><a href="soccer.html">soccer.html</a></li>
       <li><a href="resume.html">resume.html</a></li>
